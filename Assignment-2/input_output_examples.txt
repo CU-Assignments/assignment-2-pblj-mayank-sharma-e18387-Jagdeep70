@@ -1,0 +1,36 @@
+Output(Question 1):-
+
+Product Id : 
+001
+Name : 
+MSI Laptop
+Price : 
+40000
+Product Id : 1
+Name : MSI Laptop
+Price : 40000
+
+--------------------------------------------------------------------------------------------------------------------------
+Output(Question 2):-
+
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500.0
+
+Non-Fiction Book Details:
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700.0
+-------------------------------------------------------------------------------------------------------------------------
+Output(Question 3):-
+
+Student Details:
+Name: Jagdeep
+Age: 20
+Roll Number: 22BCS17198
+
+Teacher Details:
+Name: Mr. Mayank Kumar
+Age: 28
+Subject: Java
